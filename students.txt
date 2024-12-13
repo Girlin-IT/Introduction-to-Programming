@@ -1,0 +1,3 @@
+Paul Newman, Introduction to programming, 50, 25
+Paul Newman, Introduction to Web Scripting, 60, 25
+Paul Newman, Introduction to Web Development, 70, 25
